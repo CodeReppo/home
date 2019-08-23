@@ -1,2 +1,3 @@
 # nijora home page
-https://codereppo.github.io/home/home.html
+https://nijorasystems.com/
+Created on 22-August-2019
